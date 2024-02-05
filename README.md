@@ -61,5 +61,3 @@ If you'd like to contribute to this project, please follow the standard GitHub F
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Feel free to customize this template according to any specific details about your project or additional information you want to include.
